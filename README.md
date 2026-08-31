@@ -25,3 +25,6 @@ Controls Technician working in industrial automation (PLC, industrial robotics, 
 
 ## Notes
 Project files are ladder logic programs ('.RSS'/'.ACD') developed as part of self-study. Each project folder includes a description, screenshots, and design notes.
+
+## Acknowledgments
+Projects in this repo are based on assignments from Paul (PLC Dojo)'s **Applied Logic** course series on Udemy. Used with permission from the instructor. All logic implementations and solutions are my own work.
