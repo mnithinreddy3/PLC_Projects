@@ -40,3 +40,7 @@ Also handled the bonus edge case: hoppers must never energize unless a box (prox
 
 ## What I Learned
 The trickiest part wasn't the sorting logic itself — it was realizing the conveyor restart couldn't just be "not filling anymore," it needed to be explicitly tied to the level switch confirming a complete fill, using an internal state bit rather than relying on the momentary sensor inputs alone.
+
+
+## Acknowledgments
+Projects in this repo are based on assignments from Paul (PLC Dojo)'s **Applied Logic** course series on Udemy. Used with permission from the instructor. All logic implementations and solutions are my own work.
